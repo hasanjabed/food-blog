@@ -5,6 +5,7 @@ body{
 
 #header{
     display: flex;
+    margin-bottom: 10%;
 }
 .header-part{
     width:50%;
@@ -34,4 +35,21 @@ p{
 .header-part img{
     width:600px;
     margin-top: 0px;
+}
+#about{
+    display: flex;
+    background-image: url(images/Frame\ 58.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.aboutr-part{
+    width: 50%;
+    padding-right: 5%;
+}
+.aboutr-part img{
+    width: 100%;
+
+}
+.aboutr-part img{
+    width: 500px;
 }
